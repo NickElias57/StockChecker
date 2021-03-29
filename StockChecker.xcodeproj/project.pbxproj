@@ -11,6 +11,7 @@
 		019E10A72605A12E0097BF5F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 019E10A62605A12E0097BF5F /* ContentView.swift */; };
 		019E10A92605A1320097BF5F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 019E10A82605A1320097BF5F /* Assets.xcassets */; };
 		019E10AC2605A1320097BF5F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 019E10AB2605A1320097BF5F /* Preview Assets.xcassets */; };
+		019E10B52605A1540097BF5F /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 019E10B42605A1540097BF5F /* SwiftyJSON.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		019E10A82605A1320097BF5F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		019E10AB2605A1320097BF5F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		019E10AD2605A1320097BF5F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		019E10B42605A1540097BF5F /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				019E10A62605A12E0097BF5F /* ContentView.swift */,
 				019E10A82605A1320097BF5F /* Assets.xcassets */,
 				019E10AD2605A1320097BF5F /* Info.plist */,
+				019E10B42605A1540097BF5F /* SwiftyJSON.swift */,
 				019E10AA2605A1320097BF5F /* Preview Content */,
 			);
 			path = StockChecker;
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				019E10B52605A1540097BF5F /* SwiftyJSON.swift in Sources */,
 				019E10A72605A12E0097BF5F /* ContentView.swift in Sources */,
 				019E10A52605A12E0097BF5F /* StockCheckerApp.swift in Sources */,
 			);
